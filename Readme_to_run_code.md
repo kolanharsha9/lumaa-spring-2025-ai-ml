@@ -27,7 +27,11 @@ cd lumaa-spring-2025-ai-ml
 
 ```bash
 python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+source venv/bin/activate  
+```
+On Windows: 
+```bash
+venv\Scripts\activate
 ```
 
 ### Install Dependencies
