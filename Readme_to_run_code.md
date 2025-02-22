@@ -60,3 +60,7 @@ streamlit run app.py
 
 A browser window will open displaying the app. Enter your movie query (e.g., "romantic comedy") in the text input field and click the **Recommend** button to see the top 5 movie recommendations.
 
+### Salary Expectations
+20$ per hour. 
+
+### Thank you
