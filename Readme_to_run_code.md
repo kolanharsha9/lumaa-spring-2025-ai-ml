@@ -27,6 +27,10 @@ cd lumaa-spring-2025-ai-ml
 
 ```bash
 python -m venv venv
+```
+
+On Mac/Linux
+```bash
 source venv/bin/activate  
 ```
 On Windows: 
@@ -42,7 +46,7 @@ pip install -r requirements.txt
 
 ## How to Run
 
-### Place the Dataset
+### Verify the Dataset
 
 Ensure you have the `wiki_movie_plots_deduped.csv` file in the project root directory.
 
